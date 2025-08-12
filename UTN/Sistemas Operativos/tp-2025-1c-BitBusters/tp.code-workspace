@@ -1,0 +1,52 @@
+{
+  "folders": [
+    {
+      "name": "kernel",
+      "path": "src/kernel"
+    },
+    {
+      "name": "cpu",
+      "path": "src/cpu"
+    },
+    {
+      "name": "memoria",
+      "path": "src/memoria"
+    },
+    {
+      "name": "io",
+      "path": "src/io"
+    },
+    {
+      "name": "commons",
+      "path": "src/commons"
+    },
+    {
+      "name": "shared",
+      "path": "shared"
+    },
+    {
+      "name": "config",
+      "path": "config"
+    },
+    {
+      "name": "scripts",
+      "path": "scripts"
+    },
+    {
+      "name": "docs",
+      "path": "docs"
+    },
+    {
+      "name": "tests",
+      "path": "tests"
+    }
+  ],
+  "settings": {
+    "debug.onTaskErrors": "abort",
+    "files.associations": {
+      "*.h": "c"
+    },
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.errorSquiggles": "disabled"
+  }
+}
